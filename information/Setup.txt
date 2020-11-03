@@ -1,0 +1,8 @@
+1. install
+    selenium
+    pytest
+    webdriver-manager
+    pytest-html
+URL = "http://advantageonlineshopping.com/"
+USERNAME = "JayJo74"
+PASSWORD = "Seattle123"
